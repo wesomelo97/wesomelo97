@@ -1,25 +1,85 @@
-### Olá! EU sou o Ewerton Melo, vulgo Eunn0t
+<p align="right">
+  <strong>Português (BR)</strong> |
+  <a href="./README.en.md">English</a>
+</p>
 
-<div align="center">
-  <a href="https://github.com/wesomelo97">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesomelo97&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesomelo97&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="wesomelo97-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="wesomelo97-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="wesomelo97-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="wesomelo97-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="wesomelo97-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="wesomelo97-Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
-</div>
-  
-##
- 
-<div> 
-   <a href = "mailto:ewetons.lab@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/wesomelo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	
-  ![Snake animation](https://github.com/wesomelo97/wesomelo97/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+# Olá, sou Ewerton Melo
+
+**Tecnologia, Negócios e Soluções Digitais**
+
+Sou profissional de TI com cerca de cinco anos de experiência em suporte técnico, infraestrutura de TI e redes.
+
+Gosto de investigar problemas, compreender o contexto mais amplo e construir soluções práticas que façam a diferença.
+
+Estou expandindo minha atuação para análise de negócios, produtos digitais, dados e desenvolvimento de software — conectando conhecimento técnico às necessidades de negócio e à experiência dos usuários.
+
+## O que faço
+
+### ◇ Soluções Digitais e Desenvolvimento
+
+Projeto e desenvolvo aplicações práticas que transformam ideias e problemas reais em soluções digitais úteis.
+
+### ◇ Análise de Negócios e Visão de Produto
+
+Exploro processos de negócio e necessidades dos usuários para identificar oportunidades e estruturar soluções adequadas ao contexto.
+
+### ◇ Dados e Soluções Inteligentes
+
+Exploro formas de combinar dados, inteligência de negócios e IA para criar ferramentas mais inteligentes, apoiar a tomada de decisões e melhorar a experiência dos usuários.
+
+## Projetos em Destaque
+
+### Ecossistema Caderno D'Vinho
+
+*Estudo de caso de negócios e produto digital de ponta a ponta*
+
+Um estudo de caso de ponta a ponta desenvolvido a partir de um negócio fictício de vinhos, conectando estratégia de negócios, branding, experiência do usuário e tecnologia.
+
+O projeto reúne um site de descoberta de vinhos, um sistema administrativo e dashboards de BI, demonstrando como soluções digitais e análise de dados podem apoiar operações e tomadas de decisão.
+
+**Explore:** [Site e BI](https://github.com/wesomelo97/caderno-dvinho) · [Business Backoffice](https://github.com/wesomelo97/business-backoffice)
+
+### Kapi — Finanças Pessoais Mais Simples
+
+*Versão 1.0 · Testes privados*
+
+Uma aplicação de finanças pessoais criada para simplificar a gestão do dinheiro doméstico e reduzir o esforço de registrar movimentações cotidianas.
+
+Desenvolvida para indivíduos e casais, a Kapi combina acompanhamento financeiro com registro de transações por mensagens em linguagem natural utilizando IA, ajudando os usuários a acompanhar suas finanças e identificar despesas que passam despercebidas.
+
+**Foco:** Finanças Pessoais · Produto Digital · Integração de IA
+
+
+
+## Tecnologias e Ferramentas
+
+| Área | Ferramentas |
+| --- | --- |
+| ◇ **Desenvolvimento** | React · TypeScript · JavaScript · HTML5 · CSS3 |
+| ◇ **Backend e Cloud** | Supabase · PostgreSQL · Cloudflare Workers |
+| ◇ **Dados e Soluções Inteligentes** | Power BI · Power Query · DAX · Excel · Google Gemini |
+| ◇ **Design e Planejamento** | Penpot · Canva · Excalidraw · Notion |
+| ◇ **Fluxo de Desenvolvimento** | Git · GitHub · GitHub Actions · GitHub Pages |
+
+## Contato
+
+- **LinkedIn:** [Ewerton Melo](https://www.linkedin.com/in/wesomelo/)
+- **GitHub:** [@wesomelo97](https://github.com/wesomelo97)
+- **E-mail:** [ewertons.lab@gmail.com](mailto:ewertons.lab@gmail.com)
+
+### Atividade de contribuição
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/wesomelo97/wesomelo97/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/wesomelo97/wesomelo97/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/wesomelo97/wesomelo97/output/github-contribution-grid-snake.svg"
+  />
+</picture>
